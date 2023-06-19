@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PrtgAPI/0.9.18": {
+        "runtime": {
+          "lib/netstandard2.0/PrtgAPI.dll": {
+            "assemblyVersion": "0.9.0.0",
+            "fileVersion": "0.9.18.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PrtgAPI/0.9.18": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pxNJiN5wxNpKL75hg7jAL+AzymcjBettLJo7KcbaVNttU/Wj1JeCH8IWYN2JGwKGCSyMXk1JpU97qI0sBqRnHg==",
+      "path": "prtgapi/0.9.18",
+      "hashPath": "prtgapi.0.9.18.nupkg.sha512"
+    }
+  }
+}

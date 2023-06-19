@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nLfC68injluUlVD2Tw0OUuA4a9VFaVw0V7Odd+tJedGyyGsQFMW/5Oi57bP5W6y7Tuds/Y3zW3rmAb3MV/Fwew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ganjargal\\source\\repos\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ganjargal\\.nuget\\packages\\prtgapi\\0.9.18\\prtgapi.0.9.18.nupkg.sha512"
+  ],
+  "logs": []
+}
