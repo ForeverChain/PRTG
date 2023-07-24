@@ -46,11 +46,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ganjargal\\source\\repos\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.vbproj",
+      "projectUniqueName": "C:\\Users\\Ganjargal\\Desktop\\PRTG-main\\WinFormsApp2\\WinFormsApp2.vbproj",
       "projectName": "WinFormsApp2",
-      "projectPath": "C:\\Users\\Ganjargal\\source\\repos\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.vbproj",
+      "projectPath": "C:\\Users\\Ganjargal\\Desktop\\PRTG-main\\WinFormsApp2\\WinFormsApp2.vbproj",
       "packagesPath": "C:\\Users\\Ganjargal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ganjargal\\source\\repos\\WinFormsApp2\\WinFormsApp2\\obj\\",
+      "outputPath": "C:\\Users\\Ganjargal\\Desktop\\PRTG-main\\WinFormsApp2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ganjargal\\AppData\\Roaming\\NuGet\\NuGet.Config",
